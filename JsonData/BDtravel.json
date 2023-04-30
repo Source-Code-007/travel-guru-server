@@ -1,0 +1,132 @@
+{
+    "destinations": [
+        {
+            "id": 1,
+            "name": "Dhaka",
+            "country": "Bangladesh",
+            "description": "Dhaka is the capital city of Bangladesh known for its rich history, bustling streets, and delicious cuisine.",
+            "topAttractions": [
+                "Ahsan Manzil",
+                "Lalbagh Fort",
+                "Dhakeshwari Temple"
+            ],
+            "photo": "https://example.com/dhaka.jpg",
+            "hotels": [
+                {
+                    "name": "Pan Pacific Sonargaon Dhaka",
+                    "address": "107 Kazi Nazrul Islam Ave, Dhaka 1215, Bangladesh",
+                    "pricePerNight": "$150",
+                    "photo": "https://example.com/pan-pacific-sonargaon-dhaka.jpg"
+                },
+                {
+                    "name": "Le Meridien Dhaka",
+                    "address": "79/A Commercial Area, Airport Road, Nikunja 2, Khilkhet, Dhaka 1229, Bangladesh",
+                    "pricePerNight": "$180",
+                    "photo": "https://example.com/le-meridien-dhaka.jpg"
+                },
+                {
+                    "name": "The Westin Dhaka",
+                    "address": "Main Gulshan Avenue, Plot-01, Road 45, Gulshan-2, Dhaka 1212, Bangladesh",
+                    "pricePerNight": "$200",
+                    "photo": "https://example.com/the-westin-dhaka.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Cox's Bazar",
+            "country": "Bangladesh",
+            "description": "Cox's Bazar is a town on the southeast coast of Bangladesh known for its long sandy beach, water sports, and seafood.",
+            "topAttractions": [
+                "Cox's Bazar Beach",
+                "Himchori Waterfall",
+                "Inani Beach"
+            ],
+            "photo": "https://example.com/coxs-bazar.jpg",
+            "hotels": [
+                {
+                    "name": "Royal Tulip Sea Pearl Beach Resort & Spa",
+                    "address": "Jaliapalong, Inani, Cox's Bazar 4750, Bangladesh",
+                    "pricePerNight": "$250",
+                    "photo": "https://example.com/royal-tulip-sea-pearl-beach-resort-and-spa.jpg"
+                },
+                {
+                    "name": "Hotel Sea Cox",
+                    "address": "Marin Drive, Kola Beach Cox's Bazar, Bangladesh",
+                    "pricePerNight": "$80",
+                    "photo": "https://example.com/hotel-sea-cox.jpg"
+                },
+                {
+                    "name": "Hotel The Cox Today",
+                    "address": "Plot 07, Road 02, Hotel Motel Zone, Kolatoli Road, Cox's Bazar 4700, Bangladesh",
+                    "pricePerNight": "$120",
+                    "photo": "https://example.com/hotel-the-cox-today.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Rangamati",
+            "country": "Bangladesh",
+            "description": "Rangamati is a district in southeastern Bangladesh known for its scenic beauty, ethnic diversity, and tranquil lakes.",
+            "topAttractions": [
+                "Kaptai Lake",
+                "Hanging Bridge",
+                "Rangamati Waterfront"
+            ],
+            "photo": "https://example.com/rangamati.jpg",
+            "hotels": [
+                {
+                    "name": "Purbani Hotel & Resort",
+                    "address": "Dhaka Chittagong Highway, Rangamati 4500, Bangladesh",
+                    "pricePerNight": "$100",
+                    "photo": "https://example.com/purbani-hotel-and-resort.jpg"
+                },
+                {
+                    "name": "Green Hill Guest House",
+                    "address": "House-12, Road-02, Tabalchhori, Rangamati 4500, Bangladesh",
+                    "pricePerNight": "$30",
+                    "photo": "https://example.com/green-hill-guest-house.jpg"
+                },
+                {
+                    "name": "Hotel Sufia Rangamati",
+                    "address": "Kathaltali Bazaar, Rangamati 4500, Bangladesh",
+                    "pricePerNight": "$50",
+                    "photo": "https://example.com/hotel-sufia-rangamati.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sylhet",
+            "country": "Bangladesh",
+            "description": "Sylhet is a city in northeastern Bangladesh known for its tea plantations, natural beauty, and historic landmarks.",
+            "topAttractions": [
+                "Jaflong",
+                "Lalakhal",
+                "Shrine of Hazrat Shah Jalal"
+            ],
+            "photo": "https://example.com/sylhet.jpg",
+            "hotels": [
+                {
+                    "name": "Hotel Star Pacific",
+                    "address": "East Dorgah Gate, Sylhet 3100, Bangladesh",
+                    "pricePerNight": "$120",
+                    "photo": "https://example.com/hotel-star-pacific.jpg"
+                },
+                {
+                    "name": "Hotel Metro International",
+                    "address": "Naya Sarak, Sylhet 3100, Bangladesh",
+                    "pricePerNight": "$80",
+                    "photo": "https://example.com/hotel-metro-international.jpg"
+                },
+                {
+                    "name": "Hotel Valley Garden",
+                    "address": "Mirzajangal, Sylhet 3100, Bangladesh",
+                    "pricePerNight": "$60",
+                    "photo": "https://example.com/hotel-valley-garden.jpg"
+                }
+            ]
+        }
+    ]
+}
