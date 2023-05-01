@@ -12,6 +12,13 @@ app.get('/', (req, res)=>{
 app.get('/destinations', (req, res)=>{
     res.send(destinationsData)
 })
+app.get('/destinations/:id', (req, res)=>{
+    const unique = req.params.id
+    const singleData = destinationsData.destinations.find(data => parseInt(data.id) === parseInt(unique))
+    console.log('from unique single data destination')
+    console.log(singleData);
+    res.send(singleData)
+})
 
 app.listen(port, ()=>{
     console.log('Our travel guru server is running perfectly!');
