@@ -16,18 +16,22 @@
                     "name": "Pan Pacific Sonargaon Dhaka",
                     "address": "107 Kazi Nazrul Islam Ave, Dhaka 1215, Bangladesh",
                     "pricePerNight": "$150",
+                    "rating": 4.5,
                     "photo": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
                     "name": "Le Meridien Dhaka",
                     "address": "79/A Commercial Area, Airport Road, Nikunja 2, Khilkhet, Dhaka 1229, Bangladesh",
                     "pricePerNight": "$180",
+                    "rating": 
+                    "rating": 4.5,5,
                     "photo": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
                     "name": "The Westin Dhaka",
                     "address": "Main Gulshan Avenue, Plot-01, Road 45, Gulshan-2, Dhaka 1212, Bangladesh",
                     "pricePerNight": "$200",
+                    "rating": 3.5,
                     "photo": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 }
             ]
@@ -48,18 +52,22 @@
                     "name": "Royal Tulip Sea Pearl Beach Resort & Spa",
                     "address": "Jaliapalong, Inani, Cox's Bazar 4750, Bangladesh",
                     "pricePerNight": "$250",
+                    "rating": 4.5,
                     "photo": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
                     "name": "Hotel Sea Cox",
                     "address": "Marin Drive, Kola Beach Cox's Bazar, Bangladesh",
                     "pricePerNight": "$80",
+                    "rating": 4
+                    "rating": 3.5,,
                     "photo": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
                     "name": "Hotel The Cox Today",
                     "address": "Plot 07, Road 02, Hotel Motel Zone, Kolatoli Road, Cox's Bazar 4700, Bangladesh",
                     "pricePerNight": "$120",
+                    "rating": 4.5,
                     "photo": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 }
             ]
@@ -80,18 +88,21 @@
                     "name": "Purbani Hotel & Resort",
                     "address": "Dhaka Chittagong Highway, Rangamati 4500, Bangladesh",
                     "pricePerNight": "$100",
+                    "rating": 3.5,
                     "photo": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
                     "name": "Green Hill Guest House",
                     "address": "House-12, Road-02, Tabalchhori, Rangamati 4500, Bangladesh",
                     "pricePerNight": "$30",
+                    "rating": 3.5,
                     "photo": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
                     "name": "Hotel Sufia Rangamati",
                     "address": "Kathaltali Bazaar, Rangamati 4500, Bangladesh",
                     "pricePerNight": "$50",
+                    "rating": 3.5,
                     "photo": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 }
             ]
@@ -112,18 +123,21 @@
                     "name": "Hotel Star Pacific",
                     "address": "East Dorgah Gate, Sylhet 3100, Bangladesh",
                     "pricePerNight": "$120",
+                    "rating": 5,
                     "photo": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
                     "name": "Hotel Metro International",
                     "address": "Naya Sarak, Sylhet 3100, Bangladesh",
                     "pricePerNight": "$80",
+                    "rating": 3.5,
                     "photo": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
                     "name": "Hotel Valley Garden",
                     "address": "Mirzajangal, Sylhet 3100, Bangladesh",
                     "pricePerNight": "$60",
+                    "rating": 4.5,
                     "photo": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 }
             ]
